@@ -1,5 +1,2 @@
-# Timer-App
-used Vanilla JS
-
-live-preview -> https://sumanislam.github.io/Timer-App/
-live-preview -> https://thirsty-lalande-613cda.netlify.app/
+## website link
+Click [here](https://sumanislam.github.io/Timer-App/) to see the Live preview of the website.
